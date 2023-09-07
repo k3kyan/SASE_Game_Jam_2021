@@ -9,4 +9,7 @@ You can see my entry showcase at the SASE Game Jam website: https://saseconnect.
 The YouTube video for my team's submission: https://www.youtube.com/watch?v=1kNbxKX2XJ8&ab_channel=SASEConnect
 
 ## Notes on playing the game:
-The game .exe file can be found in the `BUILD` Folder. When playing, wait for the dialogue to fully load before clicking or pressing any button. Otherwise, the text will stay and stack up on top of each other. 
+The game .exe file can be found in the `BUILD` folder. You have to download the whole `BUILD` folder to play the `SASEGameJam_Traditions.exe` game file. 
+
+When playing, wait for the dialogue to fully load before clicking or pressing any button. Otherwise, the text will stay and stack up on top of each other. 
+

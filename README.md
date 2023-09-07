@@ -1,5 +1,5 @@
 # SASE Game Jam 2021
-My submission for the SASE 2021 National Game Jam where my team won. I coded all of the project while my team worked on the development and concept. 
+This is my submission for the SASE 2021 National Game Jam where my team won. I coded all of the project while my team worked on the development and concept. 
 
 This project was developed in between September 30 to October 3, 2021. However, I uploaded the project to GitHub in 2023 with some cleanup in the code files. 
 
